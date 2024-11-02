@@ -58,3 +58,4 @@ class two_sum{
         System.out.println(ans2);
     }
 }
+
